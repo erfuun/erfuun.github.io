@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "@vuedx/typescript-plugin-vue": "^0.7.4",
+    "tailwindcss-pseudo-elements": "^2.0.0",
     "vue": "^3.0.5"
   },
   "devDependencies": {
