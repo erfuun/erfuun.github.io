@@ -74,7 +74,7 @@
                 data-aos="fade-up"
                 data-aos-delay="100"
               >
-                Web Developer & Mobile Application Developer
+                Full Stack Web Developer
               </p>
               <div class="social-nav" data-aos="fade-up" data-aos-delay="200">
                 <nav role="navigation">
@@ -82,7 +82,7 @@
                     <li class="nav-item">
                       <a
                         class="nav-link"
-                        href="https://twitter.com/templateflip"
+                        href="https://twitter.com/@nezhad.erfan"
                         title="Twitter"
                         ><i class="fab fa-twitter"></i
                         ><span class="menu-title sr-only">Twitter</span></a
@@ -91,16 +91,16 @@
                     <li class="nav-item">
                       <a
                         class="nav-link"
-                        href="https://www.facebook.com/templateflip"
-                        title="Facebook"
-                        ><i class="fab fa-facebook"></i
-                        ><span class="menu-title sr-only">Facebook</span></a
+                        href="https://github.com/erfninja"
+                        title="Github"
+                        ><i class="fab fa-github"></i
+                        ><span class="menu-title sr-only">Github</span></a
                       >
                     </li>
                     <li class="nav-item">
                       <a
                         class="nav-link"
-                        href="https://www.instagram.com/templateflip"
+                        href="https://www.instagram.com/erfan99sadeqi"
                         title="Instagram"
                         ><i class="fab fa-instagram"></i
                         ><span class="menu-title sr-only">Instagram</span></a
@@ -113,15 +113,6 @@
                         title="LinkedIn"
                         ><i class="fab fa-linkedin"></i
                         ><span class="menu-title sr-only">LinkedIn</span></a
-                      >
-                    </li>
-                    <li class="nav-item">
-                      <a
-                        class="nav-link"
-                        href="https://www.behance.net/templateflip"
-                        title="Behance"
-                        ><i class="fab fa-behance"></i
-                        ><span class="menu-title sr-only">Behance</span></a
                       >
                     </li>
                   </ul>
