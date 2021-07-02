@@ -3,26 +3,27 @@
     <div class="container-narrow">
       <div class="row">
         <div class="col-md-6">
-          <h2 class="h4 my-2">Hello! I’m Walter Patterson.</h2>
+          <h2 class="h4 my-2">Hello! I’m Erfan Sadeghinezhad.</h2>
           <p>
-            I am passionate about UI/UX design and Web Design. I am a skilled
-            front-end developer and master of graphic design tools such as
-            Photoshop and Sketch. I am a quick learner and a team worker that
-            gets the job done. I can easily capitalize on low hanging fruits and
-            quickly maximize timely deliverables for real-time schemas.
+            I am passionate about Web Design and Web Development. I am a skilled
+            front-end developer and master of back-end language and framework
+            such as Django and Node.js. I am a quick learner and a team worker
+            that gets the job done. I can easily capitalize on low hanging
+            fruits and quickly maximize timely deliverables for real-time
+            schemas.
           </p>
           <div class="row mt-3">
             <div class="col-sm-2">
               <div class="pb-1">Age:</div>
             </div>
             <div class="col-sm-10">
-              <div class="pb-1 fw-bolder">28</div>
+              <div class="pb-1 fw-bolder">16</div>
             </div>
             <div class="col-sm-2">
               <div class="pb-1">Email:</div>
             </div>
             <div class="col-sm-10">
-              <div class="pb-1 fw-bolder">walter@company.com</div>
+              <div class="pb-1 fw-bolder">erfansadeghinezhad@gmail.com</div>
             </div>
             <div class="col-sm-2">
               <div class="pb-1">Skype:</div>
@@ -34,13 +35,13 @@
               <div class="pb-1">Phone:</div>
             </div>
             <div class="col-sm-10">
-              <div class="pb-1 fw-bolder">+0718-111-0011</div>
+              <div class="pb-1 fw-bolder">+98-9387995150</div>
             </div>
             <div class="col-sm-2">
               <div class="pb-1">Address:</div>
             </div>
             <div class="col-sm-10">
-              <div class="pb-1 fw-bolder">New Delhi, India</div>
+              <div class="pb-1 fw-bolder">Isfahan, Iran</div>
             </div>
             <div class="col-sm-2">
               <div class="pb-1">Staus:</div>
@@ -57,10 +58,10 @@
         >
           <img
             class="avatar img-fluid mt-2"
-            src="images/avatar.jpg"
+            src="images/avatar.jpeg"
             width="400"
             height="400"
-            alt="Walter Patterson"
+            alt="Erfan Sadeghinezhad"
           />
         </div>
       </div>
