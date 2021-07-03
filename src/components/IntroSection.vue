@@ -58,7 +58,7 @@
         >
           <img
             class="avatar img-fluid mt-2"
-            src="images/avatar.jpeg"
+            src="../../public/images/avatar.jpeg"
             width="400"
             height="400"
             alt="Erfan Sadeghinezhad"
