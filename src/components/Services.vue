@@ -12,7 +12,7 @@
         >
           <img
             class="mb-2"
-            src="images/web-design.svg"
+            src="../../public/images/web-design.svg"
             width="96"
             height="96"
             alt="web design"
@@ -26,7 +26,7 @@
         >
           <img
             class="mb-2"
-            src="images/ui-ux.svg"
+            src="../../public/images/ui-ux.svg"
             width="96"
             height="96"
             alt="web design"
@@ -40,7 +40,7 @@
         >
           <img
             class="mb-2"
-            src="images/full-stack.svg"
+            src="../../public/images/full-stack.svg"
             width="96"
             height="96"
             alt="web design"

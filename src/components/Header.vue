@@ -58,7 +58,7 @@
             <div class="col-lg-6 p-4 pt-0">
               <img
                 class="img-fluid"
-                src="images/hello.svg"
+                src="../../public/images/hello.svg"
                 width="532"
                 height="442"
                 alt="hello"
@@ -96,7 +96,7 @@
                       <li class="nav-item">
                         <a
                           class="nav-link"
-                          href="https://github.com/erfninja"
+                          href="https://github.com/efnninja"
                           title="Github"
                           ><i class="fab fa-github"></i
                           ><span class="menu-title sr-only">Github</span></a
@@ -135,7 +135,11 @@
           </div>
         </div>
       </div>
-      <img class="wave-bg img-fluid" src="images/wave-bg.svg" alt="waves" />
+      <img
+        class="wave-bg img-fluid"
+        src="../../public/images/wave-bg.svg"
+        alt="waves"
+      />
     </header>
   </div>
 </template>
