@@ -17,37 +17,37 @@
               <div class="pb-1">Age:</div>
             </div>
             <div class="col-sm-10">
-              <div class="pb-1 fw-bolder">16</div>
+              <div class="pb-1 fw-bolder">{{ AboutUsData.Age }}</div>
             </div>
             <div class="col-sm-2">
               <div class="pb-1">Email:</div>
             </div>
             <div class="col-sm-10">
-              <div class="pb-1 fw-bolder">erfansadeghinezhad@gmail.com</div>
+              <div class="pb-1 fw-bolder">{{ AboutUsData.Email }}</div>
             </div>
             <div class="col-sm-2">
               <div class="pb-1">Skype:</div>
             </div>
             <div class="col-sm-10">
-              <div class="pb-1 fw-bolder">username@skype.com</div>
+              <div class="pb-1 fw-bolder">{{ AboutUsData.Skype }}</div>
             </div>
             <div class="col-sm-2">
               <div class="pb-1">Phone:</div>
             </div>
             <div class="col-sm-10">
-              <div class="pb-1 fw-bolder">+98-9387995150</div>
+              <div class="pb-1 fw-bolder">{{ AboutUsData.Phone }}</div>
             </div>
             <div class="col-sm-2">
               <div class="pb-1">Address:</div>
             </div>
             <div class="col-sm-10">
-              <div class="pb-1 fw-bolder">Isfahan, Iran</div>
+              <div class="pb-1 fw-bolder">{{ AboutUsData.Address }}</div>
             </div>
             <div class="col-sm-2">
               <div class="pb-1">Status:</div>
             </div>
             <div class="col-sm-10">
-              <div class="pb-1 fw-bolder">Available</div>
+              <div class="pb-1 fw-bolder">{{ AboutUsData.Status }}</div>
             </div>
           </div>
         </div>
@@ -68,3 +68,21 @@
     </div>
   </div>
 </template>
+
+<script lang="ts">
+import { ref } from "vue";
+export default {
+  setup() {
+    const AboutUsData = ref({
+      Email: "erfansadeghinezhad@gmail.com",
+      Skype: "erfansadeghinezhad@skype.com",
+      Phone: "+98-9387995150",
+      Age: "16",
+      Address: "Isfahan, Iran",
+      Status: "Available",
+    });
+
+    return { AboutUsData };
+  },
+};
+</script>

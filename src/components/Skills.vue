@@ -73,7 +73,7 @@
             <!-- Postgresql -->
             <div class="py-1">
               <div class="d-flex text-small fw-bolder">
-                <span class="me-auto">Postgresql</span><span>60%</span>
+                <span class="me-auto">Golang</span><span>40%</span>
               </div>
               <div class="progress my-1">
                 <div
@@ -82,8 +82,8 @@
                   data-aos="zoom-in-right"
                   data-aos-delay="600"
                   data-aos-anchor=".skills-section"
-                  style="width: 60%"
-                  aria-valuenow="60"
+                  style="width: 40%"
+                  aria-valuenow="40"
                   aria-valuemin="0"
                   aria-valuemax="100"
                 ></div>
