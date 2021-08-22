@@ -10,7 +10,7 @@
               <li class="nav-item">
                 <a
                   class="nav-link"
-                  href="https://twitter.com/@nezhad.erfan"
+                  href="https://twitter.com/@nezhad_erfan"
                   title="Twitter"
                   ><i class="fab fa-twitter"></i
                   ><span class="menu-title sr-only">Twitter</span></a
@@ -37,10 +37,19 @@
               <li class="nav-item">
                 <a
                   class="nav-link"
-                  href="https://www.linkedin.com/"
+                  href="https://www.linkedin.com/in/erfan-sadeghi-nezhad-a745761b4/"
                   title="LinkedIn"
                   ><i class="fab fa-linkedin"></i
                   ><span class="menu-title sr-only">LinkedIn</span></a
+                >
+              </li>
+              <li class="nav-item">
+                <a
+                  class="nav-link"
+                  href="https://join.skype.com/invite/IbEic0cN7d4b"
+                  title="Skype"
+                  ><i class="fab fa-skype"></i
+                  ><span class="menu-title sr-only">Skype</span></a
                 >
               </li>
             </ul>
