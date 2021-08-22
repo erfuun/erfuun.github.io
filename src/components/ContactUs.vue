@@ -64,12 +64,6 @@
                 <div class="pb-1 fw-bolder">{{ ContactUsData.Email }}</div>
               </div>
               <div class="col-sm-2">
-                <div class="pb-1">Skype:</div>
-              </div>
-              <div class="col-sm-10">
-                <div class="pb-1 fw-bolder">{{ ContactUsData.Skype }}</div>
-              </div>
-              <div class="col-sm-2">
                 <div class="pb-1">Phone:</div>
               </div>
               <div class="col-sm-10">
@@ -89,7 +83,6 @@ export default {
   setup() {
     const ContactUsData = ref({
       Email: "erfansadeghinezhad@gmail.com",
-      Skype: "erfansadeghinezhad@skype.com",
       Phone: "+98-9387995150",
     });
 
